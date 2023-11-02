@@ -1,0 +1,42 @@
+{
+    "system": {
+        "name": "Whatsnap",
+        "url": "https://whatsnap.com.br",
+        "color": {
+            "lightTheme": {
+                "palette": {
+                    "primary": "#00a783",
+                    "secondary": "#54656F"
+                },
+                "toolbar": {
+                    "background": "linear-gradient(to right, #00a783, #00a884)"
+                },
+                "menuItens": "#ffffff",
+                "sub": "#ffffff",
+                "toolbarIcon": "#ffffff",
+                "divide": "#E0E0E0"
+            },
+            "darkTheme": {
+                "palette": {
+                    "primary": "#7e7e7f",
+                    "secondary": "#aebac1",
+                    "background": {
+                        "default": "#202c33",
+                        "paper": "#0c1317"
+                    },
+                    "text": {
+                        "primary": "#F2F0E4",
+                        "secondary": "#F2F0E4"
+                    }
+                },
+                "toolbar": {
+                    "background": "linear-gradient(to right, #202c33, #111b21)"
+                },
+                "menuItens": "#202c33",
+                "sub": "#202c33",
+                "toolbarIcon": "#202c33",
+                "divide": "#0c1317"
+            }
+        }
+    }
+}
